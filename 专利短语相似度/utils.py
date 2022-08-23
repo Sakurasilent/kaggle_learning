@@ -1,0 +1,1 @@
+model_checkpoint = 'microsoft/deberta-v3-small'
